@@ -1,0 +1,16 @@
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\DeconstructingNon-tupleTypes\DeconstructingNon-tupleTypes\bin\Debug\net5.0\DeconstructingNon-tupleTypes.exe
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\DeconstructingNon-tupleTypes\DeconstructingNon-tupleTypes\bin\Debug\net5.0\DeconstructingNon-tupleTypes.deps.json
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\DeconstructingNon-tupleTypes\DeconstructingNon-tupleTypes\bin\Debug\net5.0\DeconstructingNon-tupleTypes.runtimeconfig.json
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\DeconstructingNon-tupleTypes\DeconstructingNon-tupleTypes\bin\Debug\net5.0\DeconstructingNon-tupleTypes.runtimeconfig.dev.json
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\DeconstructingNon-tupleTypes\DeconstructingNon-tupleTypes\bin\Debug\net5.0\DeconstructingNon-tupleTypes.dll
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\DeconstructingNon-tupleTypes\DeconstructingNon-tupleTypes\bin\Debug\net5.0\ref\DeconstructingNon-tupleTypes.dll
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\DeconstructingNon-tupleTypes\DeconstructingNon-tupleTypes\bin\Debug\net5.0\DeconstructingNon-tupleTypes.pdb
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\DeconstructingNon-tupleTypes\DeconstructingNon-tupleTypes\obj\Debug\net5.0\DeconstructingNon-tupleTypes.csproj.AssemblyReference.cache
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\DeconstructingNon-tupleTypes\DeconstructingNon-tupleTypes\obj\Debug\net5.0\DeconstructingNon-tupleTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\DeconstructingNon-tupleTypes\DeconstructingNon-tupleTypes\obj\Debug\net5.0\DeconstructingNon-tupleTypes.AssemblyInfoInputs.cache
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\DeconstructingNon-tupleTypes\DeconstructingNon-tupleTypes\obj\Debug\net5.0\DeconstructingNon-tupleTypes.AssemblyInfo.cs
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\DeconstructingNon-tupleTypes\DeconstructingNon-tupleTypes\obj\Debug\net5.0\DeconstructingNon-tupleTypes.csproj.CoreCompileInputs.cache
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\DeconstructingNon-tupleTypes\DeconstructingNon-tupleTypes\obj\Debug\net5.0\DeconstructingNon-tupleTypes.dll
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\DeconstructingNon-tupleTypes\DeconstructingNon-tupleTypes\obj\Debug\net5.0\ref\DeconstructingNon-tupleTypes.dll
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\DeconstructingNon-tupleTypes\DeconstructingNon-tupleTypes\obj\Debug\net5.0\DeconstructingNon-tupleTypes.pdb
+C:\Users\Rodolfo AC\Documents\C# Learning and tuts\DeconstructingNon-tupleTypes\DeconstructingNon-tupleTypes\obj\Debug\net5.0\DeconstructingNon-tupleTypes.genruntimeconfig.cache
