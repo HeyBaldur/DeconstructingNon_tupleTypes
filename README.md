@@ -1,0 +1,2 @@
+# Deconstructing Non-tuple Types
+A tuple provides a lightweight way to retrieve multiple values from a method call. But once you retrieve the tuple, you have to handle its individual elements. Working on an element-by-element basis is cumbersome, as the following example shows. The QueryCityData method returns a three-tuple, and each of its elements is assigned to a variable in a separate operation.
